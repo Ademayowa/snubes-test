@@ -1,0 +1,22 @@
+.faq h4 {
+  font-size: 1.75rem;
+  font-weight: bold;
+  line-height: 1.36;
+  letter-spacing: normal;
+  color: #456;
+}
+
+.faq h5 {
+  font-size: 1.125rem;
+  font-weight: bold;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: #456;
+}
+
+.faq p {
+  font-size: 1.125rem;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: #456;
+}

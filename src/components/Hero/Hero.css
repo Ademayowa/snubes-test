@@ -1,0 +1,43 @@
+.hero h3 {
+  margin: 21rem 0.75rem 0.625rem 2rem;
+  text-shadow: 0 0 5px rgba(68, 85, 102, 0.5);
+  font-size: 1.125rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: #fff;
+}
+
+.heroRight h4 {
+  /* margin: 0.625rem 2.625rem 0 2.313rem; */
+  text-align: center;
+  text-shadow: 0 0 5px rgba(68, 85, 102, 0.5);
+  font-size: 2rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  color: #fff;
+}
+
+.heroRight h5 {
+  text-align: center;
+  /* margin-left: 2.313rem; */
+  text-shadow: 0 0 5px rgba(68, 85, 102, 0.5);
+  font-size: 1.125rem;
+  font-weight: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: #fff;
+}
+
+@media (min-width: 992px) {
+  .hero {
+    background: url('../../images/hero-1.png') right no-repeat;
+    background-size: cover;
+    padding-bottom: 20px;
+  }
+}

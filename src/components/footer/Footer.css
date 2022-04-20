@@ -1,0 +1,16 @@
+footer {
+  padding: 50px 0;
+  background: #4a4a4a;
+}
+
+.footer li {
+  font-size: 1.063rem;
+  font-weight: 500;
+  line-height: 2;
+  letter-spacing: normal;
+  color: var(--white-color);
+}
+
+.footer svg {
+  color: var(--white-color);
+}
